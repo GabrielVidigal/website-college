@@ -1,8 +1,24 @@
-# React + Vite
+# College Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de um site para uma faculdade. Ele inclui uma página de contato onde os usuários podem enviar mensagens e informações de contato da faculdade.
 
-Currently, two official plugins are available:
+## Como Abrir o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para abrir o projeto, siga estas etapas:
+
+1. Navegue até o diretório do projeto:
+    ```
+    cd college-website
+    ```
+
+2. Instale as dependências do projeto:
+    ```
+    npm install
+    ```
+
+3. Execute o projeto em modo de desenvolvimento:
+    ```
+    npm run dev
+    ```
+
+Isso abrirá o projeto em um ambiente de desenvolvimento local, onde você pode visualizá-lo e fazer alterações conforme necessário.
